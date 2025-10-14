@@ -1,1 +1,3 @@
 data/
+merged_parquet/
+cleaned_segmented_parquet/
