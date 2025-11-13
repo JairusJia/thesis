@@ -1,3 +1,8 @@
 data/
 merged_parquet/
 cleaned_segmented_parquet/
+output_docs_svd/
+.ipynb_checkpoints/
+out_fp/
+w2v_models/
+thesis/
