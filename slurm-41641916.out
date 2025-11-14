@@ -1,0 +1,60 @@
+2025-11-14 14:12:59,114 - distributed.nanny - INFO -         Start Nanny at: 'tcp://172.25.2.47:41629'
+2025-11-14 14:12:59,124 - distributed.nanny - INFO -         Start Nanny at: 'tcp://172.25.2.47:41695'
+2025-11-14 14:12:59,125 - distributed.nanny - INFO -         Start Nanny at: 'tcp://172.25.2.47:44389'
+2025-11-14 14:12:59,125 - distributed.nanny - INFO -         Start Nanny at: 'tcp://172.25.2.47:34151'
+2025-11-14 14:13:00,772 - distributed.worker - INFO -       Start worker at:    tcp://172.25.2.47:33037
+2025-11-14 14:13:00,772 - distributed.worker - INFO -       Start worker at:    tcp://172.25.2.47:37493
+2025-11-14 14:13:00,772 - distributed.worker - INFO -       Start worker at:    tcp://172.25.2.47:46327
+2025-11-14 14:13:00,772 - distributed.worker - INFO -       Start worker at:    tcp://172.25.2.47:46721
+2025-11-14 14:13:00,772 - distributed.worker - INFO -          Listening to:    tcp://172.25.2.47:33037
+2025-11-14 14:13:00,772 - distributed.worker - INFO -          Listening to:    tcp://172.25.2.47:37493
+2025-11-14 14:13:00,772 - distributed.worker - INFO -          Listening to:    tcp://172.25.2.47:46327
+2025-11-14 14:13:00,772 - distributed.worker - INFO -           Worker name:           SLURMCluster-2-3
+2025-11-14 14:13:00,772 - distributed.worker - INFO -          Listening to:    tcp://172.25.2.47:46721
+2025-11-14 14:13:00,772 - distributed.worker - INFO -           Worker name:           SLURMCluster-2-1
+2025-11-14 14:13:00,772 - distributed.worker - INFO -           Worker name:           SLURMCluster-2-2
+2025-11-14 14:13:00,772 - distributed.worker - INFO -          dashboard at:          172.25.2.47:33877
+2025-11-14 14:13:00,772 - distributed.worker - INFO -           Worker name:           SLURMCluster-2-0
+2025-11-14 14:13:00,772 - distributed.worker - INFO -          dashboard at:          172.25.2.47:40109
+2025-11-14 14:13:00,772 - distributed.worker - INFO -          dashboard at:          172.25.2.47:45169
+2025-11-14 14:13:00,772 - distributed.worker - INFO - Waiting to connect to:    tcp://172.25.0.65:34593
+2025-11-14 14:13:00,772 - distributed.worker - INFO -          dashboard at:          172.25.2.47:38015
+2025-11-14 14:13:00,772 - distributed.worker - INFO - Waiting to connect to:    tcp://172.25.0.65:34593
+2025-11-14 14:13:00,772 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:00,772 - distributed.worker - INFO - Waiting to connect to:    tcp://172.25.0.65:34593
+2025-11-14 14:13:00,772 - distributed.worker - INFO - Waiting to connect to:    tcp://172.25.0.65:34593
+2025-11-14 14:13:00,772 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:00,772 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:00,772 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:00,772 - distributed.worker - INFO -               Threads:                          1
+2025-11-14 14:13:00,772 - distributed.worker - INFO -               Threads:                          1
+2025-11-14 14:13:00,772 - distributed.worker - INFO -               Threads:                          1
+2025-11-14 14:13:00,772 - distributed.worker - INFO -                Memory:                   7.45 GiB
+2025-11-14 14:13:00,772 - distributed.worker - INFO -               Threads:                          1
+2025-11-14 14:13:00,772 - distributed.worker - INFO -                Memory:                   7.45 GiB
+2025-11-14 14:13:00,772 - distributed.worker - INFO -       Local Directory: /scratch/local/jobs/41641916/dask-scratch-space/worker-8exk4u9b
+2025-11-14 14:13:00,773 - distributed.worker - INFO -                Memory:                   7.45 GiB
+2025-11-14 14:13:00,773 - distributed.worker - INFO -                Memory:                   7.45 GiB
+2025-11-14 14:13:00,773 - distributed.worker - INFO -       Local Directory: /scratch/local/jobs/41641916/dask-scratch-space/worker-whslb4w6
+2025-11-14 14:13:00,773 - distributed.worker - INFO -       Local Directory: /scratch/local/jobs/41641916/dask-scratch-space/worker-pxz_bqnw
+2025-11-14 14:13:00,773 - distributed.worker - INFO -       Local Directory: /scratch/local/jobs/41641916/dask-scratch-space/worker-l4dj4_8q
+2025-11-14 14:13:00,773 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:00,774 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:00,774 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:00,774 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:05,637 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-11-14 14:13:05,637 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-11-14 14:13:05,637 - distributed.worker - INFO -         Registered to:    tcp://172.25.0.65:34593
+2025-11-14 14:13:05,637 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:05,638 - distributed.core - INFO - Starting established connection to tcp://172.25.0.65:34593
+2025-11-14 14:13:05,638 - distributed.worker - INFO -         Registered to:    tcp://172.25.0.65:34593
+2025-11-14 14:13:05,638 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:05,638 - distributed.core - INFO - Starting established connection to tcp://172.25.0.65:34593
+2025-11-14 14:13:05,638 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-11-14 14:13:05,639 - distributed.worker - INFO -         Registered to:    tcp://172.25.0.65:34593
+2025-11-14 14:13:05,639 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:05,639 - distributed.core - INFO - Starting established connection to tcp://172.25.0.65:34593
+2025-11-14 14:13:05,640 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-11-14 14:13:05,640 - distributed.worker - INFO -         Registered to:    tcp://172.25.0.65:34593
+2025-11-14 14:13:05,640 - distributed.worker - INFO - -------------------------------------------------
+2025-11-14 14:13:05,641 - distributed.core - INFO - Starting established connection to tcp://172.25.0.65:34593
