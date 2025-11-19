@@ -8,3 +8,4 @@ w2v_models/
 thesis/
 node2vec_embeddings_concept/
 renmin_neighbors_node2vec.csv/
+lda50_model/
